@@ -2,7 +2,7 @@
 - 🏫 I earned a Master's from the University of Alberta and a Bachelor's in Computer Science from Korea University.
 - 👀 I’m interested in Artificial Intelligence, Handling Big data and Children's Education.
 - 🌱 I’m currently learning how I can use AI and ML algorithms to make the world a better place.
-- 💞️ I’m looking to collaborate on any project related to Machine learning and Artificial Intelligence.
+- 💞️ I’m looking to collaborate on any project related to Machine learning (ML) and Artificial Intelligence (AI).
 - 📫 How to reach me: Please email me at `evelynpark0504@gmail.com`
 
 <!---
