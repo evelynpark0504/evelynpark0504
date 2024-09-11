@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Evelyn Sohyun Park :)
-- 🏫 I earned a Master's from the University of Alberta and a Bachelor's in Computer Science from Korea University.
+- 🏫 I earned a Master's from the University of Alberta and a Bachelor's from Korea University in Computer Science.
 - 👀 I’m interested in Artificial Intelligence, Handling Big data and Children's Education.
 - 🌱 I’m currently learning how I can use AI and ML algorithms to make the world a better place.
 - 💞️ I’m looking to collaborate on any project related to Machine learning (ML) and Artificial Intelligence (AI).
